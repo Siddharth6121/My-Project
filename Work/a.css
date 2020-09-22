@@ -1,0 +1,9 @@
+body{
+    
+    background-size: cover;
+    background-color: palegreen;
+}
+#p{
+    padding-right: 50px;
+    font-size: larger;
+}
